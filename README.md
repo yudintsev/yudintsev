@@ -1,6 +1,5 @@
 - 👋 Hello World, I’m Georgiy.
-- I’m a data scientist and neuroscientist.
-- I’m currently learning how to analyze neural activity patterns from imaging experiments, such as in vivo 2-photon (2P) imaging.
-- I am open to collaboration on 2P analysis projects using Python and analytical projects with impact on human health.
-- Experienced in SQL, dbt, and Python for data analysis and machine learning.
+- I’m a neuroscientist and data scientist by training.
+- Currently learning more about analytics engineering and its impact on running a successful business. As a neuroscientist, I worked on analyzing neural activity patterns from imaging experiments (widefield, in vivo 2-photon (2P) imaging).
+- Experienced in data analysis and machine learning using SQL, dbt, R and Python.
 - 📫 Feel free to reach out!
