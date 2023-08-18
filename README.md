@@ -1,6 +1,6 @@
 - 👋 Hello World, I’m Georgiy.
 - I’m a neuroscientist and data scientist by training.
-- I work at [pymetrics](https://www.pymetrics.ai).
+- I work at [Torticity](https://torticity.com/).
 - Currently learning more about analytics engineering and its impact on running a successful business. As a neuroscientist, I worked on analyzing neural activity patterns from imaging experiments (widefield, in vivo 2-photon (2P) imaging).
 - Experienced in data analysis and machine learning using SQL, dbt, R and Python.
 - 📫 Feel free to reach out!
