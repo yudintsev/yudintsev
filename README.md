@@ -1,6 +1,6 @@
 - 👋 Hello World, I’m Georgiy.
-- I am a Senior Data Engineer at [TelevisaUnivion](https://corporate.televisaunivision.com/) - the largest multimedia provider for Spanish speakers. 
-- I’m a neuroscientist and statistician by training. 
+- My day job is Senior Data Engineer at [TelevisaUnivion](https://corporate.televisaunivision.com/) - a major multimedia provider for Spanish speakers. 
+- I’m a neuroscientist and statistician by academic training. 
 - Currently learning more about big data technologies and its impact on running a successful business. As a neuroscientist, I worked on analyzing neural activity patterns from imaging experiments (widefield, in vivo 2-photon (2P) imaging). 
 - Experienced in SQL, dbt, R and Python for data analysis and machine learning applications.
 - 📫 Feel free to reach out! 
